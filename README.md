@@ -1,2 +1,2 @@
 # Battleship-Game
-Python based Battleships game.
+Battleship game implemented using python
