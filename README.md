@@ -1,4 +1,2 @@
-# Battleship-Game #
-Python based Battleships game.
-
-Note:- For terminal based GUI.
+# Battleship-Game
+Battleship game implemented using python
